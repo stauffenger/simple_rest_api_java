@@ -1,0 +1,4 @@
+INSERT INTO LIBRARY.BOOK VALUES('5ba5074b-6299-4e82-9e08-c8469501fb0a', '978-9-7917-2723-5', 'Jordan B', 'The Tartar Steppe');
+INSERT INTO LIBRARY.BOOK VALUES('4ba5074b-6299-4e82-9e08-c8469501fb0a', '978-9-7917-2703-5', 'Jordan B', 'The Tartar Steppe Second');
+INSERT INTO LIBRARY.BOOK VALUES('99489094-a1b8-4065-86f7-e342399ae412', '978-3-5222-9314-3', 'David', 'Poem Strip');
+INSERT INTO LIBRARY.BOOK VALUES('ae91f3df-562c-4381-8c43-e3f0be48bdeb', '978-6-2975-0449-0', 'Echo C', 'Restless Nights: Selected Stories of Dino Buzzati');
